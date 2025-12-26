@@ -1,0 +1,9 @@
+Flight Number: F0001
+Departure City: HANOI
+Destination City: MACAU
+Departure Time: 10:00
+Arrival Time: 12:00
+Duration: 120
+Available Seats: 200
+Date: Tue Feb 02 00:00:00 ICT 2100
+

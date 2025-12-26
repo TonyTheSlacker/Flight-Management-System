@@ -1,0 +1,20 @@
+0, 0, F0001, John Smith
+0, 1, F0002, Sarah Johnson
+0, 1, F0003, Michael Hans
+0, 1, F0004, Jessica Brown
+0, 1, F0005, William Jones
+0, 1, F0006, Emily Davis
+
+1, 0, F0001, Ethan White
+1, 1, F0002, Abigail Lee
+1, 1, F0003, Samuel Scott
+1, 1, F0004, Madison Hall
+1, 1, F0005, Benjamin King
+1, 1, F0006, Ava Allen
+
+2, 0, F0001-F0002, Mia Reed
+2, 0, F0001-F0002, Jack Mitchell
+2, 1, F0003-F0004, Sophia Walker
+2, 1, F0003-F0004, Daniel Turner
+2, 1, F0005-F0006, Lily Jenkins
+2, 1, F0005-F0006, Samuel Martinez

@@ -1,0 +1,56 @@
+Reservation ID: 7486549
+Gate Number: 4
+Flight: f0001
+Number of Passengers: 2
+Passenger Information:
+Name: Tony
+ID: 101010
+Birthdate: Tue Feb 02 00:00:00 ICT 1999
+Name: James
+ID: 2909123
+Birthdate: Wed Feb 02 00:00:00 ICT 2000
+
+Reservation ID: 4912460
+Gate Number: 3
+Flight: f0001
+Number of Passengers: 2
+Passenger Information:
+Name: tttttt
+ID: 102130211
+Birthdate: Wed Feb 02 00:00:00 ICT 2000
+Name: rrrrr
+ID: 39201381
+Birthdate: Fri Jan 01 00:00:00 ICT 1999
+
+Reservation ID: 3713401
+Gate Number: 5
+Flight: f0001
+Number of Passengers: 2
+Passenger Information:
+Name: dasfasd
+ID: 2132112
+Birthdate: Wed Feb 02 00:00:00 ICT 2000
+Name: ttttttttt
+ID: 21912
+Birthdate: Fri Jan 01 00:00:00 ICT 1999
+
+Reservation ID: 2005267
+Gate Number: 6
+Flight: f0001
+Number of Passengers: 2
+Passenger Information:
+Name: tttttt
+ID: 123
+Birthdate: Wed Feb 02 00:00:00 ICT 2000
+Name: yyyyyyyyy
+ID: 3333
+Birthdate: Fri Jan 01 00:00:00 ICT 1999
+
+Boarding Pass for tttttt:
+Reservation ID: 2005267
+Flight Details: Flight [Available Seat=197, Flight Number=F0001, Departure Time=10:00, Departure City=HANOI, Destination City=MACAU, Duration=120(Minutes), Arrival Time=12:00, Flight Date= Tue Feb 02 00:00:00 ICT 2100]
+
+Boarding Pass for yyyyyyyyy:
+Reservation ID: 2005267
+Flight Details: Flight [Available Seat=196, Flight Number=F0001, Departure Time=10:00, Departure City=HANOI, Destination City=MACAU, Duration=120(Minutes), Arrival Time=12:00, Flight Date= Tue Feb 02 00:00:00 ICT 2100]
+
